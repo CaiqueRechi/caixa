@@ -18,4 +18,5 @@ class App\Classes\Bills
         $this->price = $price;
         $this->price_payd = $price_payd;
     }
+    
 }
